@@ -27,19 +27,7 @@ var overviewerConfig = {
     ],
     "map": {
         "debug": false,
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-        "cacheTag": "1635492205",
-=======
-        "cacheTag": "1635498653",
->>>>>>> Stashed changes
-=======
-        "cacheTag": "1635498653",
->>>>>>> Stashed changes
-=======
-        "cacheTag": "1635498653",
->>>>>>> Stashed changes
+        "cacheTag": "1635513826",
         "north_direction": "lower-left",
         "controls": {
             "pan": true,
@@ -61,7 +49,7 @@ var overviewerConfig = {
             "base": "",
             "bgcolor": "#1a1a1a",
             "world": "world",
-            "last_rendertime": 1635498436,
+            "last_rendertime": 1635512794,
             "imgextension": "png",
             "isOverlay": false,
             "poititle": "Markers",
